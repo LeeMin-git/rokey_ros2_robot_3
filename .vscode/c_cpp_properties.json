@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/min/move3_ws/install/usb_cam/include/**",
+        "/home/min/move3_ws/install/turtlebot3_manipulation_hardware/include/**",
+        "/home/min/catkin_ws/install/turtlebot3_fake_node/include/**",
+        "/home/min/catkin_ws/install/turtlebot3_msgs/include/**",
+        "/home/min/catkin_ws/install/turtlebot3_gazebo/include/**",
+        "/home/min/catkin_ws/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/min/catkin_ws/install/dynamixel_sdk/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/min/move3_ws/src/hello_moveit/include/**",
+        "/home/min/move3_ws/src/turtlebot3_manipulation/turtlebot3_manipulation_hardware/include/**",
+        "/home/min/move3_ws/src/turtlebot3_manipulation/turtlebot3_manipulation_teleop/include/**",
+        "/home/min/move3_ws/src/usb_cam-ros2/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
